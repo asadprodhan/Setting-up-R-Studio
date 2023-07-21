@@ -1,4 +1,16 @@
-# Setting up RStudio
+# **How to set up and use R Studio** <br />
+
+
+### **Asad Prodhan PhD** 
+
+
+**https://asadprodhan.github.io/**
+
+
+<br />
+
+<br />
+
 
 - **Download R and RStudio** 
  
